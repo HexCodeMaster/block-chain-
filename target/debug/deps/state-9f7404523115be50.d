@@ -1,0 +1,12 @@
+/Users/natiabraha/sigil_crypto/target/debug/deps/libstate-9f7404523115be50.rmeta: /Users/natiabraha/.cargo/registry/src/index.crates.io-6f17d22bba15001f/state-0.6.0/src/lib.rs /Users/natiabraha/.cargo/registry/src/index.crates.io-6f17d22bba15001f/state-0.6.0/src/ident_hash.rs /Users/natiabraha/.cargo/registry/src/index.crates.io-6f17d22bba15001f/state-0.6.0/src/cell.rs /Users/natiabraha/.cargo/registry/src/index.crates.io-6f17d22bba15001f/state-0.6.0/src/init.rs /Users/natiabraha/.cargo/registry/src/index.crates.io-6f17d22bba15001f/state-0.6.0/src/shim.rs /Users/natiabraha/.cargo/registry/src/index.crates.io-6f17d22bba15001f/state-0.6.0/src/type_map.rs
+
+/Users/natiabraha/sigil_crypto/target/debug/deps/libstate-9f7404523115be50.rlib: /Users/natiabraha/.cargo/registry/src/index.crates.io-6f17d22bba15001f/state-0.6.0/src/lib.rs /Users/natiabraha/.cargo/registry/src/index.crates.io-6f17d22bba15001f/state-0.6.0/src/ident_hash.rs /Users/natiabraha/.cargo/registry/src/index.crates.io-6f17d22bba15001f/state-0.6.0/src/cell.rs /Users/natiabraha/.cargo/registry/src/index.crates.io-6f17d22bba15001f/state-0.6.0/src/init.rs /Users/natiabraha/.cargo/registry/src/index.crates.io-6f17d22bba15001f/state-0.6.0/src/shim.rs /Users/natiabraha/.cargo/registry/src/index.crates.io-6f17d22bba15001f/state-0.6.0/src/type_map.rs
+
+/Users/natiabraha/sigil_crypto/target/debug/deps/state-9f7404523115be50.d: /Users/natiabraha/.cargo/registry/src/index.crates.io-6f17d22bba15001f/state-0.6.0/src/lib.rs /Users/natiabraha/.cargo/registry/src/index.crates.io-6f17d22bba15001f/state-0.6.0/src/ident_hash.rs /Users/natiabraha/.cargo/registry/src/index.crates.io-6f17d22bba15001f/state-0.6.0/src/cell.rs /Users/natiabraha/.cargo/registry/src/index.crates.io-6f17d22bba15001f/state-0.6.0/src/init.rs /Users/natiabraha/.cargo/registry/src/index.crates.io-6f17d22bba15001f/state-0.6.0/src/shim.rs /Users/natiabraha/.cargo/registry/src/index.crates.io-6f17d22bba15001f/state-0.6.0/src/type_map.rs
+
+/Users/natiabraha/.cargo/registry/src/index.crates.io-6f17d22bba15001f/state-0.6.0/src/lib.rs:
+/Users/natiabraha/.cargo/registry/src/index.crates.io-6f17d22bba15001f/state-0.6.0/src/ident_hash.rs:
+/Users/natiabraha/.cargo/registry/src/index.crates.io-6f17d22bba15001f/state-0.6.0/src/cell.rs:
+/Users/natiabraha/.cargo/registry/src/index.crates.io-6f17d22bba15001f/state-0.6.0/src/init.rs:
+/Users/natiabraha/.cargo/registry/src/index.crates.io-6f17d22bba15001f/state-0.6.0/src/shim.rs:
+/Users/natiabraha/.cargo/registry/src/index.crates.io-6f17d22bba15001f/state-0.6.0/src/type_map.rs:
